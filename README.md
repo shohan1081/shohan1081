@@ -100,6 +100,6 @@ Hybrid-version clone of a professional networking platform.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohan1081&show_icons=true&theme=default&count_private=true" height="165" />
+  [<img src="https://github-readme-stats.vercel.app/api?username=shohan1081&show_icons=true&theme=default&count_private=true" height="165" />](https://github-readme-stats.vercel.app/api?username=shohan1081&show_icons=true&theme=default)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohan1081" height="165" />
 </p>
