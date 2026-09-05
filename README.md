@@ -14,7 +14,7 @@
 - 🔧 I design, build, and deploy production-grade backend systems — from API architecture to server infrastructure
 - ☁️ Currently deepening my expertise in **DevOps** (Docker → AWS EC2 → Kubernetes)
 - 🤖 Actively exploring the **AI space** — chatbot systems and LLM-powered backends
-- 📫 Reach me at: **[add your email]** · [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 📫 Reach me at: shohanulislam19892@gmail.com · [LinkedIn](https://www.linkedin.com/in/shohanul/)
 
 ---
 
